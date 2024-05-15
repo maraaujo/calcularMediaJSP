@@ -24,7 +24,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome].
+Este projeto foi desenvolvido por Maria Cecília.
 
 ## Licença
 
