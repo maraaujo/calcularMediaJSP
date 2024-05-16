@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet(name = "FormServlet", urlPatterns = "/media")
+@WebServlet(name = "FormServlet", urlPatterns = "/calcular-media")
 public class CalcularMediaServlet extends HttpServlet {
 
     @Override
